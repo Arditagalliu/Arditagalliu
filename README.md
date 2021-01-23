@@ -3,7 +3,6 @@
 # Introduction
 ```python
 class Person:
-    class Person:
     def __init__(self):
         self.Name = "Ardit"
         self.Surname = "Agalliu"
